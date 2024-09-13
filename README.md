@@ -26,8 +26,8 @@ Before you begin, make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-component-showcase.git
-   cd react-component-showcase
+   git clone https://github.com/turtlebeasts/react-dummy-projects.git
+   cd react-dummy-projects
    ```
 
 2. Install the dependencies:
@@ -39,18 +39,18 @@ Before you begin, make sure you have the following installed on your machine:
 3. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-   Your app will be running at `http://localhost:3000`.
+   Your app will be running at `http://localhost:5173`.
 
 ## Components
-
+<!--
 Here's a list of the React components included in this repository:
 
 1. **Component 1:** A brief description of what this component does.
 2. **Component 2:** A brief description of what this component does.
-3. **Component 3:** A brief description of what this component does.
+3. **Component 3:** A brief description of what this component does. -->
 
 Each component can be found in the `src/components` directory, along with its respective documentation.
 
@@ -82,13 +82,9 @@ export default App;
 
 If you'd like to contribute to this repository, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
-- **GitHub:** [your-username](https://github.com/your-username)
-- **Email:** your-email@example.com
+- **GitHub:** [turtlebeasts](https://github.com/turtlebeasts)
+- **Email:** mrigz179@gmail.com
 
 Happy coding! 😊
